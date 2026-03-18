@@ -14,6 +14,10 @@ Advanced file uploader plugin for WooCommerce checkout with drag & drop, preview
 - Email Attachments
 - Order Admin File View
 
+## 📸 Screenshots
+
+![Screenshot](screenshot-1.png)
+
 ## 📦 Installation
 
 1. Upload plugin folder to `/wp-content/plugins/`
